@@ -77,4 +77,4 @@ LR02  | We can list details by pressing 2  | Implemented
 LR03  | We can modify details by pressing 3| Implemented
 LR04  | We can delete details by pressing 4| Implemented
 LR05  | We can exit details by pressing 5  | Implemented
-LR06  | We can keep the deatils privacy    | Future
+LR06  | We can keep the details privacy    | Future
