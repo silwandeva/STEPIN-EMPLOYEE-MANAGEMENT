@@ -7,4 +7,4 @@ Given below is the flow graph of the system:
 ## Low Level Design
 
 Given below is the flow graph of the system:
-![LowLevelStructuralDiagram]()
+![LowLevelStructuralDiagram](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/2_Architecture/design.png)
