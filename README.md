@@ -19,11 +19,9 @@ Folder             | Description
 
 #BADGES
 
-|BUILD   |STATIC CODE ANALYSIS. | DYNAMIC CODE ANALYSIS |CODE QUALITY.   |UNITY. | GIT INSPECTOR. |
+|Build    |Static Code Analysis |Dynamic Code Analysis|Code Quality     |Unity   |Git Inspector|
 |:--------|:--------|:--------|:----------------|:--------|:-----------|
-|[![C/C++ CI](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml)          |
-[![cppcheck-action](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml)
-|
+|[![C/C++ CI](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml)    |    [![cppcheck-action](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml)   |    [![Dynamic Code Check](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/dynamic.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/dynamic.yml)    | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11ef55b2b5724a5b9428877f7662de90)](https://www.codacy.com/gh/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=silwandeva/STEPIN-EMPLOYEE-MANAGEMENT&amp;utm_campaign=Badge_Grade)|[![Unit testing](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/unit-test.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/unit-test.yml)|[![Contribution Check - Git Inspector](https://www.code-inspector.com/project/27780/status/svg)](https://github.com/GEN-AUG/SDLC_01_Falcon/actions/workflows/contribution.yml)|
 ## Contributors List and Summary
 
 PS No. |           Name           |     Features     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
