@@ -16,6 +16,14 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
+
+#BADGES
+
+|BUILD   |STATIC CODE ANALYSIS. | DYNAMIC CODE ANALYSIS |CODE QUALITY.   |UNITY. | GIT INSPECTOR. |
+|:--------|:--------|:--------|:----------------|:--------|:-----------|
+|[![C/C++ CI](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/c_build.yml)          |
+[![cppcheck-action](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml/badge.svg)](https://github.com/silwandeva/STEPIN-EMPLOYEE-MANAGEMENT/blob/main/.github/workflows/cppcheck-action.yml)
+|
 ## Contributors List and Summary
 
 PS No. |           Name           |     Features     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
