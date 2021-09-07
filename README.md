@@ -5,7 +5,7 @@ Employee Management System is an application, developed to maintain the details 
 ![image](https://github.com/murali980/StepIn_Mini_Project/blob/master/1_Requirements/employee-management-system-hrmlabs.png)
 
 ## Benifits
-We can easily access the data and update the data without a pen and a paper. 
+We can easily asscesible to change data or update the data without a pen and a paper. 
 ## Cost and Features
 This was a costless application and we have features like
 1.Add record
@@ -44,7 +44,7 @@ An employee working in an organisation can enter/update his details.
 
 ## What:
 
-An updaet,add,delete,and view the employee details.
+An update,add,delete,and view the employee details.
 
 ## When:
 
